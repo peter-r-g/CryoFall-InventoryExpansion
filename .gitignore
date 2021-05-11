@@ -388,4 +388,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Custom ignores
-package.bat
+*.mpk
+*.bat
