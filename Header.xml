@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+  <game>CryoFall</game>
+  <id>InventoryExpansion</id>
+  <title>Inventory Expansion</title>
+  <description>New mod for CBND.</description>
+  <author>gunman435</author>
+  <modtype>2</modtype>
+  <version>1.0.0</version>
+  <updated>05.09.2021</updated>
+</root>

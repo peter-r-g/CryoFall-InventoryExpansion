@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryExpansion", "InventoryExpansion.csproj", "{541BE6B4-1D34-49AA-95E7-E6F2C7CABD32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtomicTorch.CBND.CoreMod", "..\Core.cpk\AtomicTorch.CBND.CoreMod.csproj", "{1B28EF61-E34B-488B-8789-79416EDA6497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_LibsAsProjects|Any CPU = Debug_LibsAsProjects|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{541BE6B4-1D34-49AA-95E7-E6F2C7CABD32}.Debug_LibsAsProjects|Any CPU.ActiveCfg = Debug_LibsAsProjects|Any CPU
+		{541BE6B4-1D34-49AA-95E7-E6F2C7CABD32}.Debug_LibsAsProjects|Any CPU.Build.0 = Debug_LibsAsProjects|Any CPU
+		{541BE6B4-1D34-49AA-95E7-E6F2C7CABD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541BE6B4-1D34-49AA-95E7-E6F2C7CABD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B28EF61-E34B-488B-8789-79416EDA6497}.Debug_LibsAsProjects|Any CPU.ActiveCfg = Debug_LibsAsProjects|Any CPU
+		{1B28EF61-E34B-488B-8789-79416EDA6497}.Debug_LibsAsProjects|Any CPU.Build.0 = Debug_LibsAsProjects|Any CPU
+		{1B28EF61-E34B-488B-8789-79416EDA6497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B28EF61-E34B-488B-8789-79416EDA6497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD84BD1B-B0F2-463B-BD84-B04FA7E2DDF5}
+	EndGlobalSection
+EndGlobal
